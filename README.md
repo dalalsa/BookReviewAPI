@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+* Endpoints  
+[using postman to create documentation](https://documenter.getpostman.com/view/7311329/S1LpbXZZ)
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+thanks for this Udemy tutorail 
+[here](https://www.udemy.com/restful-api-with-ruby-on-rails-5/learn/lecture/8562536#overview)
